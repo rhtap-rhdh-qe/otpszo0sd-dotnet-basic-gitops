@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: otpszo0sd-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/otpszo0sd-dotnet-basic
